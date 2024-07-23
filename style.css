@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: blanchedalmond;
+    font-size: larger;
+}
+
+.container{
+    border: 10px solid rgb(233, 191, 23);
+    margin: 10%;
+    padding: 1% 3% 3%;
+    text-align: center;
+    width: 30%;
+    border-radius: 30px;
+    background-color: rgb(234, 209, 109);
+}
+.append{
+    margin: 3% 0%;
+}
+input{
+    object-fit: cover;
+    border-radius: 10px;
+    padding: 1% 5%;
+
+}
+button{
+    padding: 3% 6%;
+    border-radius: 5px;
+    border-color: rgb(233, 191, 23);
+    background-color: rgb(20, 179, 102);
+}
